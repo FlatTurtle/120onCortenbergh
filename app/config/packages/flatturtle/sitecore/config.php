@@ -68,7 +68,7 @@ return array(
 	|
 	*/
 
-	'reservation_password' => null,
+	'reservation_password' => 'reservationsareawesome',
 
 
 	/*
