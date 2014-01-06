@@ -182,12 +182,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FlatTurtle/SitesCore.git",
-                "reference": "f3433d3b4d58071e8c727cdf93bef44a7dd46744"
+                "reference": "32da6f8ed74d9149f3e7e3dcce746a5b80e185af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FlatTurtle/SitesCore/zipball/f3433d3b4d58071e8c727cdf93bef44a7dd46744",
-                "reference": "f3433d3b4d58071e8c727cdf93bef44a7dd46744",
+                "url": "https://api.github.com/repos/FlatTurtle/SitesCore/zipball/32da6f8ed74d9149f3e7e3dcce746a5b80e185af",
+                "reference": "32da6f8ed74d9149f3e7e3dcce746a5b80e185af",
                 "shasum": ""
             },
             "require": {
@@ -217,7 +217,7 @@
                 "source": "https://github.com/FlatTurtle/SitesCore/tree/master",
                 "issues": "https://github.com/FlatTurtle/SitesCore/issues"
             },
-            "time": "2014-01-06 13:51:22"
+            "time": "2014-01-06 14:53:22"
         },
         {
             "name": "guzzle/guzzle",
@@ -446,12 +446,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "c472ca9b043c373230ded1363dd05d1478effca4"
+                "reference": "0ce3cf0b1f2abdfe13535d85bf656c628008c344"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/c472ca9b043c373230ded1363dd05d1478effca4",
-                "reference": "c472ca9b043c373230ded1363dd05d1478effca4",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/0ce3cf0b1f2abdfe13535d85bf656c628008c344",
+                "reference": "0ce3cf0b1f2abdfe13535d85bf656c628008c344",
                 "shasum": ""
             },
             "require": {
@@ -555,7 +555,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2014-01-06 02:22:05"
+            "time": "2014-01-06 14:29:03"
         },
         {
             "name": "monolog/monolog",
